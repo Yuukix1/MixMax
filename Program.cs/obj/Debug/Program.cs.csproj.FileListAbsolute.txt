@@ -1,0 +1,7 @@
+C:\Users\Babaka\source\repos\Program.cs\Program.cs\bin\Debug\Program.cs.exe.config
+C:\Users\Babaka\source\repos\Program.cs\Program.cs\bin\Debug\Program.cs.exe
+C:\Users\Babaka\source\repos\Program.cs\Program.cs\bin\Debug\Program.cs.pdb
+C:\Users\Babaka\source\repos\Program.cs\Program.cs\obj\Debug\Program.cs.csproj.AssemblyReference.cache
+C:\Users\Babaka\source\repos\Program.cs\Program.cs\obj\Debug\Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\Babaka\source\repos\Program.cs\Program.cs\obj\Debug\Program.cs.exe
+C:\Users\Babaka\source\repos\Program.cs\Program.cs\obj\Debug\Program.cs.pdb
